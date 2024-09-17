@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+env/
+=======
+.venv/
+>>>>>>> 40be914f8eac83d91c27b2094cd94f641a24a11a
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+.env/
+dist/
+build/
+*.egg-info/:w
