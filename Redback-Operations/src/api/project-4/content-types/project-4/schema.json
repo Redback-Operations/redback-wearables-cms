@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "project_4s",
+  "info": {
+    "singularName": "project-4",
+    "pluralName": "project-4s",
+    "displayName": "Project 4"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Project4": {
+      "type": "string"
+    }
+  }
+}

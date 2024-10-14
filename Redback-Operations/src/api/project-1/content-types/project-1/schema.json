@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "project_1s",
+  "info": {
+    "singularName": "project-1",
+    "pluralName": "project-1s",
+    "displayName": "Project 1",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Project1": {
+      "type": "string"
+    }
+  }
+}

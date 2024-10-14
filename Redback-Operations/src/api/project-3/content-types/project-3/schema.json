@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "project_3s",
+  "info": {
+    "singularName": "project-3",
+    "pluralName": "project-3s",
+    "displayName": "Project 3"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Project3": {
+      "type": "string"
+    }
+  }
+}

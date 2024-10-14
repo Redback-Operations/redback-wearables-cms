@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "project_5s",
+  "info": {
+    "singularName": "project-5",
+    "pluralName": "project-5s",
+    "displayName": "Project 5"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Project5": {
+      "type": "string"
+    }
+  }
+}
